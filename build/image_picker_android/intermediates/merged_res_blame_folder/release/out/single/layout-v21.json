@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/image_picker_android/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/image_picker_android/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/image_picker_android/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/image_picker_android/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/res/layout-v21/notification_action.xml"
+    }
+]

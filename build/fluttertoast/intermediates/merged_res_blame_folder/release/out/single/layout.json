@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/fluttertoast/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/fluttertoast/intermediates/merged_res/release/layout/toast_custom.xml",
+        "source": "/Users/dreamworld/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android/src/main/res/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/fluttertoast/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/fluttertoast/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/fluttertoast/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/fluttertoast/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/WorkSpace/FlutterProject/firebasedemo/build/fluttertoast/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/dreamworld/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]
