@@ -1,17 +1,26 @@
-# mvvm_demo
+# Flutter Login and Signup Demo
 
-A new Flutter project.
+This is a sample Flutter project demonstrating how to implement user authentication (login and signup) using Firebase, following the MVVM (Model-View-ViewModel) architecture and using the Provider state management technique.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User registration (signup)
+- User login
+- Firebase authentication
+- MVVM architecture
+- Provider for state management
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have met the following requirements:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-provider-mvvm-architecture
+- Flutter SDK installed
+- Firebase project setup
+- A code editor (e.g., Visual Studio Code, Android Studio)
+- Basic knowledge of Flutter, Firebase, MVVM architecture, and Provider
+
+## Contributing
+- Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## Contact
+- For any inquiries or feedback, please get in touch with shailesh.dev1997@gmail.com
